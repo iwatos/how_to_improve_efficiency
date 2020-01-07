@@ -8,9 +8,12 @@ PC作業効率化の方法まとめ
   - [1.2. better touch tool](#12-better-touch-tool)
   - [1.3. iterm2](#13-iterm2)
   - [1.4. brew](#14-brew)
-  - [1.5. zsh + oh my zsh](#15-zsh--oh-my-zsh)
+  - [1.5. clippy](#15-clippy)
 - [2. intelij](#2-intelij)
 - [3. VSCode](#3-vscode)
+- [4. console](#4-console)
+  - [4.1. git](#41-git)
+  - [4.2. zsh + oh my zsh](#42-zsh--oh-my-zsh)
 
 <!-- /TOC -->
 
@@ -28,8 +31,7 @@ PC作業効率化の方法まとめ
  
 ## 1.4. brew
 
-## 1.5. zsh + oh my zsh
-
+## 1.5. clippy
 
 # 2. intelij
 * Plugin
@@ -38,3 +40,14 @@ PC作業効率化の方法まとめ
 # 3. VSCode
 * Plugin
   * ...
+
+# 4. console
+
+## 4.1. git
+* ailias
+```
+.gitconfigに記載する
+
+```
+
+## 4.2. zsh + oh my zsh
